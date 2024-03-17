@@ -1,7 +1,7 @@
 # Shopping Store Sales Analysis
 
 #### Table of Contents
-- [Introduction](https://github.com/KingYungzel/Shopping-Store-Sales##Introduction)
+- [Introduction](https://github.com/KingYungzel/Shopping-Store-Sales##introduction)
 
 ![](project_intro.jpg)
 ---
