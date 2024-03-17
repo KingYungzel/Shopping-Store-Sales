@@ -2,6 +2,7 @@
 
 #### Table of Contents
 - [Introduction](https://github.com/KingYungzel/Shopping-Store-Sales#introduction)
+- [Problem Statement](https://github.com/KingYungzel/Shopping-Store-Sales#problem-statement)
 
 ![](project_intro.jpg)
 ---
