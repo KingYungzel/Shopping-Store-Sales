@@ -1,11 +1,20 @@
 # Shopping Store Sales Analysis
 
-#### Table of Contents
-- [Introduction](https://github.com/KingYungzel/Shopping-Store-Sales#introduction)
-- [Problem Statement](https://github.com/KingYungzel/Shopping-Store-Sales#problem-statement)
-
 ![](project_intro.jpg)
 ---
+
+## Table of Contents
+- [Introduction](https://github.com/KingYungzel/Shopping-Store-Sales#introduction)
+- [Problem Statement](https://github.com/KingYungzel/Shopping-Store-Sales#problem-statement)
+- [Data Source](https://github.com/KingYungzel/Shopping-Store-Sales#data-source)
+- [Tools](https://github.com/KingYungzel/Shopping-Store-Sales#tools)
+- [Data Cleaning](https://github.com/KingYungzel/Shopping-Store-Sales#data-cleaning)
+- [Data Analysis](https://github.com/KingYungzel/Shopping-Store-Sales#data-analysis)
+- [Exploratory Data Analysis](https://github.com/KingYungzel/Shopping-Store-Sales#exploratory-data-analysis)
+- [Results](https://github.com/KingYungzel/Shopping-Store-Sales#results)
+- [Recommendations](https://github.com/KingYungzel/Shopping-Store-Sales#recommendations)
+- [Limitations](https://github.com/KingYungzel/Shopping-Store-Sales#limitations)
+- [Appreciation](https://github.com/KingYungzel/Shopping-Store-Sales#appreciation)
 
 ## Introduction
 This is a Microsoft Excel project on sales analysis of an imaginary store called **Shopping Store Sales**.
@@ -35,7 +44,7 @@ Microsoft Excel was the tool used for this project based on Principles below:
 ## Data Analysis
 - Pivot Tables
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 **What is Exploratory Data Analysis (EDA)?** Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics , often using visual methods.
 
 **EDA requires examining the sales data to provide solutions to the key questions, such as:**
@@ -64,5 +73,5 @@ You can interact with the report [here](https://5w0m4q-my.sharepoint.com/:x:/g/p
 During the analysis, incomplete data or blank spaces were identified and represented as **"N/A"**. These missing or incomplete entries might limit the accuracy of the project's findings.
 
 ## Appreciation
-Thank you for taking the time to explore my project on GitHub. Your interest and engagement mean a lot to me.
+Thank you for taking the time to explore my project on GitHub. Your interest and engagement mean a lot to me 🙏.
 ![](thank_you.jpeg)
