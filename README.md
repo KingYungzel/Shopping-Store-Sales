@@ -20,7 +20,7 @@
 This is a Microsoft Excel project on sales analysis of an imaginary store called **Shopping Store Sales**.
 The goal of this project is to dig deep into sales data to uncover valuable insights by examining product performance, customer preferences in color, and seasonal trends. 
 We strive to identify trends, provide data-driven recommendations, and develop a comprehension of the business performance.
-![](my_project_dash.jpg)
+![](project_dah_pic.jpg)
 
 ## Problem Statement 
 The marketing department is planning to launch a campaign in the second quarter of 2024. However, they need a dashboard to monitor business activity while awaiting the campaign launch. This dashboard will offer insights into where to focus the campaign efforts effectively. The marketing lead requires tracking various metrics over time, including product performance, changes in customers' color preferences, location, and seasonal patterns in relation to orders. Additionally, any other relevant metric(s) should be incorporated into the dashboard to provide comprehensive insights for informed decision-making.
